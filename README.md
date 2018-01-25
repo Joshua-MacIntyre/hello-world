@@ -1,2 +1,4 @@
 # hello-world
-First directory on github to see how it feels.
+My first directory on github to see how it feels.
+
+Nothing else of note.
